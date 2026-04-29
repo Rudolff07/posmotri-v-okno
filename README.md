@@ -1,1 +1,1 @@
-https://github.com/Rudolff07/posmotri-v-okno-ad
+https://github.com/Rudolff07/posmotri-v-okno
